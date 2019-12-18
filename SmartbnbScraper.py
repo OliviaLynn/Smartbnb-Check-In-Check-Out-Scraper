@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 #   and you're good to go
 #
 # Run this script in your IDE or via command line
-#   $python -m /path/to/SmartbnbScraper
+#   $python /path/to/SmartbnbScraper <smartbnb-username> <smartbnb-password>
 
 """
 TODO
