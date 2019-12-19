@@ -1,6 +1,8 @@
 # Smartbnb Check-In/Check-Out Scraper
 <img src="https://img.shields.io/badge/python-3.7-blue" /> <img src="https://img.shields.io/badge/selenium-1.141.0-blue" /> <img src="https://img.shields.io/badge/maintained%3F-no-red" /> <img src="https://img.shields.io/github/issues/OliviaLynn/Smartbnb-Check-In-Check-Out-Scraper" /> 
 
+Scrapes all check-in and check-out data from Smartbnb using Selenium.
+
 ## Getting Started
 
 These instructions will get the project up and running on your own machine with your own Smartbnb account.
